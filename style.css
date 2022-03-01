@@ -1,0 +1,19 @@
+.shashi{
+    position: relative;
+    border: solid;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    left: 500px;
+    background-color: black;
+}
+
+.shashi2{
+    border: none;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    position: relative;
+    right: 20px;
+    background-color:wheat;
+}
